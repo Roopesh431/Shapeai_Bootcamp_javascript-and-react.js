@@ -1,0 +1,1 @@
+# Shapeai_Bootcamp_javascript-and-rect.js
